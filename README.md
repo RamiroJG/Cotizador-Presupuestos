@@ -5,3 +5,6 @@ Proyecto realizado para hacer la simulacion de una solicitud de prestamos, donde
 
 ## Tecnologias usadas
 Vite - React - Tailwindcss
+
+### Como lanzar la app
+Para lanzar la app tiene que descargar el codigo, en la terminar de vscode escribir 'npm i' y luego de la instalacion escribir 'npm run dev'
